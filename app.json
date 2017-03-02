@@ -1,0 +1,16 @@
+{
+  "env": {
+    "DENON_HOST": {
+      "description": "Denon or Marantz hostname or IP",
+      "required": true
+    },
+    "DENON_PORT": {
+      "description": "Denon or Marantz port",
+      "value": 23
+    },
+    "FIREBASE_URL": {
+      "description": "Firebase Database URL",
+      "required": true
+    }
+  }
+}

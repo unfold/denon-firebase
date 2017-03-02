@@ -1,0 +1,6 @@
+{
+  "extends": "@unfold/eslint-config",
+  "rules": {
+    "no-console": 0
+  }
+}
